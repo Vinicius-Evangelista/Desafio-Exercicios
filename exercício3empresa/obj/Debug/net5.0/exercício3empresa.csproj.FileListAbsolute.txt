@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\exercício3empresa.exe
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\exercício3empresa.deps.json
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\exercício3empresa.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\exercício3empresa.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\exercício3empresa.dll
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\ref\exercício3empresa.dll
+C:\Users\Vinicius\Desktop\exercício3empresa\bin\Debug\net5.0\exercício3empresa.pdb
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.dll
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\ref\exercício3empresa.dll
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.pdb
+C:\Users\Vinicius\Desktop\exercício3empresa\obj\Debug\net5.0\exercício3empresa.genruntimeconfig.cache

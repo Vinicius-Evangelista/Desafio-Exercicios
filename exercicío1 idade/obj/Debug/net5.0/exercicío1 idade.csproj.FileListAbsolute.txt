@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\exercicío1 idade.exe
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\exercicío1 idade.deps.json
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\exercicío1 idade.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\exercicío1 idade.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\exercicío1 idade.dll
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\ref\exercicío1 idade.dll
+C:\Users\Vinicius\Desktop\exercicío1 idade\bin\Debug\net5.0\exercicío1 idade.pdb
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.dll
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\ref\exercicío1 idade.dll
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.pdb
+C:\Users\Vinicius\Desktop\exercicío1 idade\obj\Debug\net5.0\exercicío1 idade.genruntimeconfig.cache

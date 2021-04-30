@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\exercicío2nascimento.exe
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\exercicío2nascimento.deps.json
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\exercicío2nascimento.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\exercicío2nascimento.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\exercicío2nascimento.dll
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\ref\exercicío2nascimento.dll
+C:\Users\Vinicius\Desktop\exercicío2nascimento\bin\Debug\net5.0\exercicío2nascimento.pdb
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.dll
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\ref\exercicío2nascimento.dll
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.pdb
+C:\Users\Vinicius\Desktop\exercicío2nascimento\obj\Debug\net5.0\exercicío2nascimento.genruntimeconfig.cache

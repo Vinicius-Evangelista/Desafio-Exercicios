@@ -1,0 +1,34 @@
+programa
+{
+
+
+	funcao inicio()
+	{ inteiro idadeNadador 
+	
+
+	escreva("Qual é a idade do nadador:\n")
+	
+leia(idadeNadador)
+
+se (idadeNadador >=17)
+escreva("O nadador pertence ao grupo: Sênior")
+
+se (idadeNadador >=5 e idadeNadador <=7)
+escreva("O nadador pertence ao grupo: Infantil A")
+
+se (idadeNadador >=8 e idadeNadador <=10)
+escreva("O nadador pertence ao grupo: Infantil B")
+
+se (idadeNadador >=11 e idadeNadador <=13)
+escreva("O nadador pertence ao grupo: Juvenil A")
+
+se (idadeNadador >=14 e idadeNadador <=17)
+escreva("O nadador pertence ao grupo: Juvenil B")
+
+se (idadeNadador < 5)
+escreva(" O nadador não pode participar, pois não se encaixa na idade mínima exigida")
+
+}
+
+		
+	}
