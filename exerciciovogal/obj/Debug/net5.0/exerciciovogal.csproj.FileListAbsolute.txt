@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\exerciciovogal.exe
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\exerciciovogal.deps.json
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\exerciciovogal.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\exerciciovogal.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\exerciciovogal.dll
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\ref\exerciciovogal.dll
+C:\Users\Vinicius\Desktop\exerciciovogal\bin\Debug\net5.0\exerciciovogal.pdb
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.dll
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\ref\exerciciovogal.dll
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.pdb
+C:\Users\Vinicius\Desktop\exerciciovogal\obj\Debug\net5.0\exerciciovogal.genruntimeconfig.cache

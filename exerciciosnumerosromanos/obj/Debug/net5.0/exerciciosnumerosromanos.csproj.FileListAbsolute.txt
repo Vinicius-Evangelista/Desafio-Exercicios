@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\exerciciosnumerosromanos.exe
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\exerciciosnumerosromanos.deps.json
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\exerciciosnumerosromanos.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\exerciciosnumerosromanos.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\exerciciosnumerosromanos.dll
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\ref\exerciciosnumerosromanos.dll
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\bin\Debug\net5.0\exerciciosnumerosromanos.pdb
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.dll
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\ref\exerciciosnumerosromanos.dll
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.pdb
+C:\Users\Vinicius\Desktop\exerciciosnumerosromanos\obj\Debug\net5.0\exerciciosnumerosromanos.genruntimeconfig.cache
