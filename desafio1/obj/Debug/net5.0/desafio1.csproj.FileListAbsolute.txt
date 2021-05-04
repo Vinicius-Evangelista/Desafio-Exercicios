@@ -14,3 +14,19 @@ C:\Users\Vinicius\Desktop\desafio1\obj\Debug\net5.0\desafio1.dll
 C:\Users\Vinicius\Desktop\desafio1\obj\Debug\net5.0\ref\desafio1.dll
 C:\Users\Vinicius\Desktop\desafio1\obj\Debug\net5.0\desafio1.pdb
 C:\Users\Vinicius\Desktop\desafio1\obj\Debug\net5.0\desafio1.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\ref\desafio1.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.pdb
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\desafio1.exe
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\desafio1.deps.json
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\desafio1.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\ref\desafio1.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\bin\Debug\net5.0\desafio1.pdb
+C:\Users\Vinicius\Desktop\Exercícios e desafio\desafio1\obj\Debug\net5.0\desafio1.genruntimeconfig.cache

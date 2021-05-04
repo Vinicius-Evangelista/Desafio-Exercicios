@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\desafio1\\desafio1.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Exercícios e desafio\\desafio1\\desafio1.csproj",
       "projectName": "desafio1",
-      "projectPath": "C:\\Users\\Vinicius\\Desktop\\desafio1\\desafio1.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Exercícios e desafio\\desafio1\\desafio1.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Desktop\\desafio1\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Exercícios e desafio\\desafio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
