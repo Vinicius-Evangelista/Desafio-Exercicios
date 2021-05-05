@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\exercícios2.exe
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\exercícios2.deps.json
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\exercícios2.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\exercícios2.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\exercícios2.dll
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\ref\exercícios2.dll
+C:\Users\Vinicius\Desktop\exercícios2\bin\Debug\net5.0\exercícios2.pdb
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.dll
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\ref\exercícios2.dll
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.pdb
+C:\Users\Vinicius\Desktop\exercícios2\obj\Debug\net5.0\exercícios2.genruntimeconfig.cache

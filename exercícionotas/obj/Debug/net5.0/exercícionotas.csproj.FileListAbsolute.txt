@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\exercícionotas.exe
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\exercícionotas.deps.json
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\exercícionotas.runtimeconfig.json
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\exercícionotas.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\exercícionotas.dll
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\ref\exercícionotas.dll
+C:\Users\Vinicius\Desktop\exercícionotas\bin\Debug\net5.0\exercícionotas.pdb
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.dll
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\ref\exercícionotas.dll
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.pdb
+C:\Users\Vinicius\Desktop\exercícionotas\obj\Debug\net5.0\exercícionotas.genruntimeconfig.cache

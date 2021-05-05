@@ -53,11 +53,12 @@ namespace desafio1
               Console.WriteLine("Você quer refazer a consulta ?");
               Console.WriteLine("Responda com sim ou não.");
               idadeConsulta= Console.ReadLine().ToLower();
-                
+
+
             } while (idadeConsulta == "sim");
-            {
-                Console.WriteLine("Qual é a idade do nadador ?");
-                idadeNadador = int.Parse(Console.ReadLine());
+            
+               Console.WriteLine("Qual é a idade do nadador ?");
+                 idadeNadador = int.Parse(Console.ReadLine());
 
             if (idadeNadador > 17)
             {
@@ -94,6 +95,7 @@ namespace desafio1
                 Console.WriteLine("O nadador não pode participar, pois não se encaixa na idade mínima exigida."+ "\n");
                 // mostrar que não tem a idade mínima
             }
+
             }
 
 
