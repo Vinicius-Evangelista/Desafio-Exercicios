@@ -1,0 +1,31 @@
+programa
+{
+		logico usuarioSenha = falso
+		caracter usuario, senha	
+	
+	funcao inicio()
+	{
+		escreva("\n Por favor coloque um nome de usuário e uma senha. \n")
+		
+escreva("Nome de usuário:")
+		leia(usuario)
+		escreva("\n Agora faça uma senha. Aviso essa não pode ser igual ao seu nome de usuário.")
+		escreva("Senha: ")
+		leia(senha)
+
+		enquanto (usuarioSenha == falso){
+			se( usuario == senha){
+				escreva("\n Erro ! Usuário é igual a sua senha.\n")
+				escreva("\n Por favor coloque um nome de usuárop e uma senha. \n")
+		
+				escreva("Nome de usuário:")
+				leia(usuario)
+				escreva("\n Agora faça uma senha. Aviso essa não pode ser igual ao seu nome de usuário.")
+				escreva("Senha: ")
+				leia(senha)
+				}senao{
+					escreva("\n Obrigado ! :)")
+					usuarioSenha = verdadeiro
+					}			}
+	}
+}

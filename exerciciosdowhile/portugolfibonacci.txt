@@ -1,0 +1,22 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro a = 0
+		inteiro b = 1
+		inteiro c = 0
+		inteiro i
+
+		para (i = 0 ; i <= 500; i ++)
+		{
+			c= a+b
+			a = b
+			b = c
+			
+			escreva (a)
+			} 
+
+		 
+	}
+}

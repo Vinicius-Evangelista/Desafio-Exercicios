@@ -1,0 +1,24 @@
+programa
+{
+	inteiro nota
+	logico notaCorreta = falso
+	
+	funcao inicio()
+	{
+		escreva("Por favor coloque a nota do aluno")
+		
+escreva("R: ")
+		leia(nota)
+
+		enquanto (notaCorreta == falso){
+			se (nota <= 10){
+				escreva("\n Obrigado pela preferência ! \n")
+				notaCorreta = verdadeiro
+				}senao{
+					escreva("Valor inválido !")
+					escreva("Por favor coloque a nota do aluno")
+					escreva("R: ")
+					}
+			}
+	}
+}

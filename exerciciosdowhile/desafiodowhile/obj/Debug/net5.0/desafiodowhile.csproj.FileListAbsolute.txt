@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\desafiodowhile.exe
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\desafiodowhile.deps.json
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\desafiodowhile.runtimeconfig.json
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\desafiodowhile.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\desafiodowhile.dll
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\ref\desafiodowhile.dll
+C:\Users\Vinicius\Desktop\desafiodowhile\bin\Debug\net5.0\desafiodowhile.pdb
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.dll
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\ref\desafiodowhile.dll
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.pdb
+C:\Users\Vinicius\Desktop\desafiodowhile\obj\Debug\net5.0\desafiodowhile.genruntimeconfig.cache

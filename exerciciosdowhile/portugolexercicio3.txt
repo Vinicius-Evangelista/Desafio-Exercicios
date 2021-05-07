@@ -1,0 +1,92 @@
+programa
+{
+	cadeia nome, estadoCivil, solteiro, casado, viuvo, divorciado
+	inteiro idade
+	logico validarNome = falso, validarIdade = falso, validarSalario= falso, validarEstadocivil = falso
+	real salario 
+	
+	funcao inicio()
+	{
+		escreva("Por favor preencha as seguintes informações.")
+		escreva("Nome: ")
+		leia(nome)
+
+		enquanto (validarNome == falso)
+		{
+			se (nome=="")
+			{
+				escreva("Você não preencheu está informação.")
+				escreva("")
+				escreva("Por favor preencha as seguintes informações.")
+				escreva("Nome: ")
+				leia(nome)		
+				}senao {
+					validarNome=verdadeiro
+				}
+				
+			
+			
+			}
+
+			escreva("Idade: ")
+			leia(idade)
+
+			enquanto(validarIdade==falso){
+				se(idade <=0 & idade >= 150){
+					escreva("\n Por favor coloque uma idade entre 0 e 150")
+					escreva("Idade: ")
+					leia(idade)
+					}senao{
+						validarIdade= verdadeiro
+						}
+				}
+
+				escreva("Salári: ")
+				leia(salario)
+
+				enquanto (validarSalario == falso){
+					se (salario == 0){
+						escreva("Erro ! Coloque um valor maior do que zero")
+						escreva("Salári: ")
+						leia(salario)
+						}senao{
+							validarSalario=verdadeiro
+							}
+					}
+
+					escreva("\n Estado Civil \n")
+					escreva("Digite: ")
+					escreva("'s' para Solteiro(a)")
+					escreva("'c' para Casado(a)")
+					escreva("'d' para Viúvo(a)")
+					escreva("'v' para Divorciado(a)" )
+					leia(estadoCivil)
+					
+					enquanto (validarEstadocivil == falso){
+						
+						se(estadoCivil != "s"& estadoCivil != "c" & estadoCivil != "d" & estadoCivil != "v"){
+							escreva("\n Preencha com as letras")
+									
+							escreva("\n Estado Civil \n")
+							escreva("Digite: ")
+							escreva("'s' para Solteiro(a)")
+							escreva("'c' para Casado(a)")
+							escreva("'d' para Viúvo(a)")
+							escreva("'v' para Divorciado(a)" )
+							leia(estadoCivil)
+							}senao{
+								validarEstadocivil = verdadeiro
+								}
+						}
+
+						escreva("\n Confira os seus dados \n")
+						escreva("Nome: " + nome)
+						escreva("Idade: " + idade + " anos")
+						escreva("Salario: " + salario ) 
+
+						se(estadoCivil == "s"){escreva("Solteiro(a)")}
+						se(estadoCivil == "c"){escreva("Casado(a)")}
+						se(estadoCivil == "v"){escreva("Viuvo (a)")}
+						se(estadoCivil == "c"){escreva("Divorciado(a)")}
+
+						escreva(" Obrigado !")
