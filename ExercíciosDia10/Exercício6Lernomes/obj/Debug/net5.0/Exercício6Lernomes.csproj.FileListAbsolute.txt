@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\Exercício6Lernomes.exe
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\Exercício6Lernomes.deps.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\Exercício6Lernomes.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\Exercício6Lernomes.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\Exercício6Lernomes.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\ref\Exercício6Lernomes.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\bin\Debug\net5.0\Exercício6Lernomes.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\ref\Exercício6Lernomes.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício6Lernomes\obj\Debug\net5.0\Exercício6Lernomes.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercício3DescProduto/1.0.0": {
+        "runtime": {
+          "Exercício3DescProduto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício3DescProduto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

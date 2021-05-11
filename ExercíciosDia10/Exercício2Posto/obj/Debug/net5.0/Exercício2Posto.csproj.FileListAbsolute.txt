@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\Exercício2Posto.exe
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\Exercício2Posto.deps.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\Exercício2Posto.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\Exercício2Posto.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\Exercício2Posto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\ref\Exercício2Posto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\bin\Debug\net5.0\Exercício2Posto.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\ref\Exercício2Posto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício2Posto\obj\Debug\net5.0\Exercício2Posto.genruntimeconfig.cache

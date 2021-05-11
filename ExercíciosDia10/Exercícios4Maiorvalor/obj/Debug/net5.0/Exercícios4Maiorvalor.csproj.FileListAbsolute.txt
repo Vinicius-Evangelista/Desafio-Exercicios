@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\Exercícios4Maiorvalor.exe
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\Exercícios4Maiorvalor.deps.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\Exercícios4Maiorvalor.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\Exercícios4Maiorvalor.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\Exercícios4Maiorvalor.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\ref\Exercícios4Maiorvalor.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\bin\Debug\net5.0\Exercícios4Maiorvalor.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\ref\Exercícios4Maiorvalor.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercícios4Maiorvalor\obj\Debug\net5.0\Exercícios4Maiorvalor.genruntimeconfig.cache

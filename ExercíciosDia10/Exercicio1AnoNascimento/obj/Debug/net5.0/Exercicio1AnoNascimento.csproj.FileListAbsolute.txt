@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\Exercicio1AnoNascimento.exe
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\Exercicio1AnoNascimento.deps.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\Exercicio1AnoNascimento.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\Exercicio1AnoNascimento.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\Exercicio1AnoNascimento.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\ref\Exercicio1AnoNascimento.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\bin\Debug\net5.0\Exercicio1AnoNascimento.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\ref\Exercicio1AnoNascimento.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercicio1AnoNascimento\obj\Debug\net5.0\Exercicio1AnoNascimento.genruntimeconfig.cache

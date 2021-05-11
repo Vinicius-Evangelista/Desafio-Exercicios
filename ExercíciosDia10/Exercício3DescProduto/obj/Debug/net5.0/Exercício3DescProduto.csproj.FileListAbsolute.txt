@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\Exercício3DescProduto.exe
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\Exercício3DescProduto.deps.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\Exercício3DescProduto.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\Exercício3DescProduto.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\Exercício3DescProduto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\ref\Exercício3DescProduto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\bin\Debug\net5.0\Exercício3DescProduto.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\ref\Exercício3DescProduto.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício3DescProduto\obj\Debug\net5.0\Exercício3DescProduto.genruntimeconfig.cache

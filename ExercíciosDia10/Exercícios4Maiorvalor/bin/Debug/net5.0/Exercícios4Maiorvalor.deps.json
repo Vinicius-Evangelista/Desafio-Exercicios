@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercícios4Maiorvalor/1.0.0": {
+        "runtime": {
+          "Exercícios4Maiorvalor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercícios4Maiorvalor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

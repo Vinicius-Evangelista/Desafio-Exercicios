@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\Exercício5Tabuada.exe
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\Exercício5Tabuada.deps.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\Exercício5Tabuada.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\Exercício5Tabuada.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\Exercício5Tabuada.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\ref\Exercício5Tabuada.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\bin\Debug\net5.0\Exercício5Tabuada.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\ref\Exercício5Tabuada.dll
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.pdb
+C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício5Tabuada\obj\Debug\net5.0\Exercício5Tabuada.genruntimeconfig.cache

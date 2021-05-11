@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercício6Lernomes/1.0.0": {
+        "runtime": {
+          "Exercício6Lernomes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício6Lernomes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
