@@ -1,0 +1,33 @@
+basicamente uma função é um conjunto de algoritimos que vão ser executados.
+
+O que é argumentos ?
+Dados vão entres os parâmetros de uma função
+
+void é uma funçao que retorna vazia
+
+o método que precede uma função é o tipo de void que ele vai ser.
+
+Qual a diferença entre função ?
+
+Posso chamar de função ou método.
+
+
+=======================
+
+Quando vc criar uma função, você pode criar o tanto de argumentos que você quiser em cada função, tanto como definir uma função sem argumentos
+
+
+módulo datetime para usar a hora do computador.
+
+para interpolar = $"(variável)h"
+
+
+expressões regulares para fazer a calculadora
+
+Pra que ser o else if ?
+
+
+
+
+
+

@@ -123,7 +123,7 @@ namespace exercicio_3
 
 
 
-            Console.WriteLine("\n Os dados estão corretos ? \n");
+            Console.WriteLine("\n Confira os seus dados \n");
             Console.WriteLine("Nome: " + nome);
             Console.WriteLine("Idade: " + idade + "anos");
             Console.WriteLine("Salario: " + salario.ToString("C"));
