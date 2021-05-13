@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ExercícioPassagem.exe
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ExercícioPassagem.deps.json
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ExercícioPassagem.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ExercícioPassagem.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ExercícioPassagem.dll
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ref\ExercícioPassagem.dll
+C:\Users\Vinicius\Desktop\ExercícioPassagem\bin\Debug\net5.0\ExercícioPassagem.pdb
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.dll
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ref\ExercícioPassagem.dll
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.pdb
+C:\Users\Vinicius\Desktop\ExercícioPassagem\obj\Debug\net5.0\ExercícioPassagem.genruntimeconfig.cache

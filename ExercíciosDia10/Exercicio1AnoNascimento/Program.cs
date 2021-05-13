@@ -10,9 +10,9 @@ namespace Exercicio1AnoNascimento
             
             int anoNascimento = int.Parse(Console.ReadLine());
 
-            DateTime dataEmes= DateTime.Today;
+            DateTime dataAtual= DateTime.Now;
 
-            int anoAtual = dataEmes.Year;
+            int anoAtual = dataAtual.Year;
 
             int validarAno = anoAtual - anoNascimento;
             

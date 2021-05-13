@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\ExercíciosDia10\\Exercício7Numersoinversos\\Exercício7Numersoinversos.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Exercícios e desafio\\ExercíciosDia10\\Exercício7Numersoinversos\\Exercício7Numersoinversos.csproj",
       "projectName": "Exercício7Numersoinversos",
-      "projectPath": "C:\\Users\\Vinicius\\Desktop\\ExercíciosDia10\\Exercício7Numersoinversos\\Exercício7Numersoinversos.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Exercícios e desafio\\ExercíciosDia10\\Exercício7Numersoinversos\\Exercício7Numersoinversos.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Desktop\\ExercíciosDia10\\Exercício7Numersoinversos\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Exercícios e desafio\\ExercíciosDia10\\Exercício7Numersoinversos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"

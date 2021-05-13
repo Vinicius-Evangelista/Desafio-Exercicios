@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\calculadoraExercício.exe
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\calculadoraExercício.deps.json
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\calculadoraExercício.runtimeconfig.json
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\calculadoraExercício.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\calculadoraExercício.dll
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\ref\calculadoraExercício.dll
+C:\Users\Vinicius\Desktop\calculadoraExercício\bin\Debug\net5.0\calculadoraExercício.pdb
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.dll
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\ref\calculadoraExercício.dll
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.pdb
+C:\Users\Vinicius\Desktop\calculadoraExercício\obj\Debug\net5.0\calculadoraExercício.genruntimeconfig.cache

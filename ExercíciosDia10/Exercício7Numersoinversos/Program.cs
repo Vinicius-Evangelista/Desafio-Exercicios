@@ -35,30 +35,30 @@ namespace Exercício7Numersoinversos
             Console.WriteLine("\n===========================\n");
             Console.WriteLine("\ninvertidokkkkkkkk\n");
 
-            Array.Reverse(arrayInverso);
+            // Array.Reverse(arrayInverso);
 
-            int w = 0;
-            foreach(var item in arrayNumeros)
-            {
-                 Console.WriteLine($"{(w+1)}° número: {item}");
-
-                w ++;
-            }
-
-
-            
-            
-
-            
-            
-
-            // foreach (var item in arrayNumeros)
+            // int w = 0;
+            // foreach(var item in arrayNumeros)
             // {
-                
-            //     Console.WriteLine($"{(t)}° número: {item}");
+            //      Console.WriteLine($"{(w+1)}° número: {item}");
 
-            //     t--;
+            //     w ++;
             // }
+
+
+            
+            
+
+            
+            
+
+            for(var i = (arrayNumeros.Length-1) ; i>= 0 ; i--)
+            {
+                
+                Console.WriteLine($"{arrayNumeros[i]}");
+
+            
+            }
 
 
             

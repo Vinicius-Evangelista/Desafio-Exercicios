@@ -8,8 +8,7 @@ namespace Exercícios4Maiorvalor
         {
             Console.WriteLine("Coloque 10 valores.");
 
-            int[] valores = null;
-            valores= new int [10];
+            int[] valores = new int [10];
             // valor da variável será igual a dez assim como está no exercício.
 
             for (var i = 0; i < 10; i++)

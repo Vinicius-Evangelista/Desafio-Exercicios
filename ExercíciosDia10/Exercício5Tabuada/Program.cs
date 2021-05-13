@@ -21,9 +21,9 @@ namespace Exercício5Tabuada
 
                 for (var t = 0; t <= 10; t++)
                 {
-                    int multiplicacao = numero *t;
+                    
                     // só a operação mesmo kkkkk
-                    Console.WriteLine ($"{numero} x {t} = {multiplicacao}");
+                    Console.WriteLine ($"{numero} x {t} = {(numero*t)}");
                     // a varivel numero,  (aquela que está lá em cima esta) está aqui pq elá vai ser o número que tem que ficar fixo;
                     
                     // a variável 't' serve para ser o numero que vai subindo de um em um;

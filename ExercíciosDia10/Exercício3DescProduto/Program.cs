@@ -38,13 +38,13 @@ namespace Exercício3DescProduto
             }else if (quantidadeProduto <= 10)
             {
                 Console.WriteLine($"Seu valor com desconto é: {valores2.ToString("F")} reais");         
-            }  
-            
-            if ( quantidadeProduto > 10)
+            }else
             {
                  Console.WriteLine($"Seu valor com desconto é: {valores3.ToString("F")} reais");
                  
-            }
+            }  
+            
+          
 
             
 

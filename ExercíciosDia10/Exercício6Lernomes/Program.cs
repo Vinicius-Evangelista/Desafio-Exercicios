@@ -14,46 +14,68 @@ namespace Exercício6Lernomes
                 nomes[i] = Console.ReadLine();
             }
 
-            Console.WriteLine("\nDeseja efetuar a busca de mais um nome ?\n");
+            Console.WriteLine("\nDeseja efetuar a busca de algum um nome ?\n");
             Console.WriteLine("Digite 'sim' ou 'não'");
             string validarBusca = Console.ReadLine();
 
-             bool validarAquisicao= false;
+            bool validação = false;
 
-            do
+            foreach(var item in nomes)
             {
-                int t = 1;
-                if (validarBusca =="sim")
+                if(validarBusca == item)
                 {
-                    Console.WriteLine("\nDigite o nome que você deseja procurar\n");
-                    Console.Write("R: ");
-                    Console.ReadLine();
-                    
-
-                    
-                    foreach (var item in nomes)
-                    {
-                        Console.WriteLine($"{t}° nome: {item}");
-                        t++;
-                    }
-
-                    Console.WriteLine("\nConseguiu achar o que você estava procurando ?\n");
-                    Console.WriteLine("\nResponde com 'achei' ou 'não achei'\n");
-                    string confirmacao = Console.ReadLine();
-
-                    if(confirmacao == "achei"){
-                        Console.WriteLine("Obrigado");
-                        validarAquisicao = true;
-                    }
-
-                }else{
-                     Console.WriteLine("Obrigado ! :)");
-                     validarAquisicao = true;
+                    validação = true;
                 }
+            }
+            
+            if(validação)
+            {
+                Console.WriteLine("Achei");
+            }else{
 
-            } while (validarAquisicao == false);
+                Console.WriteLine("Não achei");
+            }
+
+            
+            
+            
+            
+            
+            // } while (validarAquisicao == false);
 
 
+            //  bool validarAquisicao= false;
+
+            // do
+            // {
+            //     int t = 1;
+            //     if (validarBusca =="sim")
+            //     {
+            //         Console.WriteLine("\nDigite o nome que você deseja procurar\n");
+            //         Console.Write("R: ");
+            //         Console.ReadLine();
+                    
+
+                    
+            //         foreach (var item in nomes)
+            //         {
+            //             Console.WriteLine($"{t}° nome: {item}");
+            //             t++;
+            //         }
+
+            //         Console.WriteLine("\nConseguiu achar o que você estava procurando ?\n");
+            //         Console.WriteLine("\nResponde com 'achei' ou 'não achei'\n");
+            //         string confirmacao = Console.ReadLine();
+
+            //         if(confirmacao == "achei"){
+            //             Console.WriteLine("Obrigado");
+            //             validarAquisicao = true;
+            //         }
+
+            //     }else{
+            //          Console.WriteLine("Obrigado ! :)");
+            //          validarAquisicao = true;
+            //     }
 
                    
 

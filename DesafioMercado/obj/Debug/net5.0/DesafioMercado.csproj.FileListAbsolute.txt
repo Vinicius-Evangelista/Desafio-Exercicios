@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\DesafioMercado.exe
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\DesafioMercado.deps.json
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\DesafioMercado.runtimeconfig.json
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\DesafioMercado.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\DesafioMercado.dll
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\ref\DesafioMercado.dll
+C:\Users\Vinicius\Desktop\DesafioMercado\bin\Debug\net5.0\DesafioMercado.pdb
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.dll
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\ref\DesafioMercado.dll
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.pdb
+C:\Users\Vinicius\Desktop\DesafioMercado\obj\Debug\net5.0\DesafioMercado.genruntimeconfig.cache

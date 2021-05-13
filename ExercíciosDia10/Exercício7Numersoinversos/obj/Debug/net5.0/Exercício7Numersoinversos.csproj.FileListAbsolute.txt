@@ -14,3 +14,19 @@ C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\
 C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\ref\Exercício7Numersoinversos.dll
 C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.pdb
 C:\Users\Vinicius\Desktop\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\Exercício7Numersoinversos.exe
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\Exercício7Numersoinversos.deps.json
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\Exercício7Numersoinversos.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\Exercício7Numersoinversos.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\Exercício7Numersoinversos.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\ref\Exercício7Numersoinversos.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\bin\Debug\net5.0\Exercício7Numersoinversos.pdb
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\ref\Exercício7Numersoinversos.dll
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.pdb
+C:\Users\Vinicius\Desktop\Exercícios e desafio\ExercíciosDia10\Exercício7Numersoinversos\obj\Debug\net5.0\Exercício7Numersoinversos.genruntimeconfig.cache
