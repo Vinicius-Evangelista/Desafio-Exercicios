@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ExercícioSistemadeProdutos.exe
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ExercícioSistemadeProdutos.deps.json
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ExercícioSistemadeProdutos.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ExercícioSistemadeProdutos.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ExercícioSistemadeProdutos.dll
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ref\ExercícioSistemadeProdutos.dll
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\bin\Debug\net5.0\ExercícioSistemadeProdutos.pdb
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.dll
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ref\ExercícioSistemadeProdutos.dll
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.pdb
+C:\Users\Vinicius\Desktop\ExercícioSistemadeProdutos\obj\Debug\net5.0\ExercícioSistemadeProdutos.genruntimeconfig.cache

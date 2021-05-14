@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\paodequeijodesafio.exe
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\paodequeijodesafio.deps.json
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\paodequeijodesafio.runtimeconfig.json
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\paodequeijodesafio.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\paodequeijodesafio.dll
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\ref\paodequeijodesafio.dll
+C:\Users\Vinicius\Desktop\paodequeijodesafio\bin\Debug\net5.0\paodequeijodesafio.pdb
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.dll
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\ref\paodequeijodesafio.dll
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.pdb
+C:\Users\Vinicius\Desktop\paodequeijodesafio\obj\Debug\net5.0\paodequeijodesafio.genruntimeconfig.cache

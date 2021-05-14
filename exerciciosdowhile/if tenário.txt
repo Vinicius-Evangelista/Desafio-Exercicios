@@ -1,0 +1,4 @@
+if tenário
+
+
+preciso que essa função faça a mesma coisa com o for e retorne o valor.
