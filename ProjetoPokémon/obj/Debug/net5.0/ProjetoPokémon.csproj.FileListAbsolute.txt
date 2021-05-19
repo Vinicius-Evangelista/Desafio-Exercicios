@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ProjetoPokémon.exe
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ProjetoPokémon.deps.json
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ProjetoPokémon.runtimeconfig.json
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ProjetoPokémon.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ProjetoPokémon.dll
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ref\ProjetoPokémon.dll
+C:\Users\Vinicius\Desktop\ProjetoPokémon\bin\Debug\net5.0\ProjetoPokémon.pdb
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.dll
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ref\ProjetoPokémon.dll
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.pdb
+C:\Users\Vinicius\Desktop\ProjetoPokémon\obj\Debug\net5.0\ProjetoPokémon.genruntimeconfig.cache
