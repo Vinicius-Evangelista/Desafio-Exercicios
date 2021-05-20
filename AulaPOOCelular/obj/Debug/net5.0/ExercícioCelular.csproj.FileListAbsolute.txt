@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ExercícioCelular.exe
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ExercícioCelular.deps.json
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ExercícioCelular.runtimeconfig.json
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ExercícioCelular.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ExercícioCelular.dll
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ref\ExercícioCelular.dll
+C:\Users\Vinicius\Desktop\AulaPOOCelular\bin\Debug\net5.0\ExercícioCelular.pdb
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.dll
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ref\ExercícioCelular.dll
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.pdb
+C:\Users\Vinicius\Desktop\AulaPOOCelular\obj\Debug\net5.0\ExercícioCelular.genruntimeconfig.cache
