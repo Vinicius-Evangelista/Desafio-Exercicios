@@ -1,0 +1,15 @@
+virtual quando nós formos escrever esse método novamente 
+
+quando nós usamos a palavra override sabemos que vamos  
+
+override reload 
+
+metódos com o mesmo nome com parâmetros diferentes.
+
+override
+métodos com o mesmo nome com funções diferentes e métodos com o mesmo nome e argumentos diferentes.
+
+
+Quando usar o this ?
+
+Só quando precisarmos pegar um atributo de uma classe e colocar com um novo valor.  

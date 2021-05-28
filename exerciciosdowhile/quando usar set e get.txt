@@ -1,0 +1,3 @@
+set e get quando usar ?
+
+set e get serve para mostrar um valor

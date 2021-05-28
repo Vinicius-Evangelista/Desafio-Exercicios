@@ -1,0 +1,10 @@
+.gitignore para fazer o git pull corretamente
+
+devemos criar o git ignore
+
+e escrever
+
+bin/
+obj/
+
+e deposi criar o dotnet build para criar as pastas que estão faltando.c
